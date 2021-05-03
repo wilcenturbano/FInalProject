@@ -1,0 +1,122 @@
+
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 90px;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Heebo', sans-serif;
+	font-size: 75px;
+	text-align: left;
+	
+}
+h3{
+	font-family: 'Heebo', sans-serif;
+	font-size: 60px;
+	text-align: left;
+	color: black;	
+	
+}
+body{
+			font-family: Tahoma, Verdana,"Sans-serif";
+			font-size:50px;
+			color:navy;
+			background:#fcdede
+}
+
+	u {
+			 text-decoration:none;
+			 border-bottom:15px solid #187a55;
+	}
+
+	p{
+			font-family: 'Arial', sans-serif;
+			text-align: justify;
+			font-size: 50px;
+			text-align: left;			
+			line-height: 55px;	
+			word-spacing:10px 
+	}
+	mark{
+			background-color: #60dbb2;
+			color: white;
+		
+	}
+
+
+
+
+.myDiv {
+			border: 4px outset red;
+			background-color: #6b11fa;    
+		    color: white;
+}
+.vleft {
+		     border-left: 15px solid black;
+		      height: 320px;
+		  
+		    position: absolute;
+		    left: 30%;
+		    margin-left: 5px;
+		    top: 0;
+}
+.vl {
+			 border-left: 100px solid red;
+			 height: 320px;
+			 position: absolute;
+			 left: 30.3%;
+			 margin-left: 10px;
+			 top: 0;
+}
+
+
+.vlright {
+			 border-left: 15px solid black;
+			 height: 1000px;			  
+			 position: absolute;
+			 right: 30%;
+			 margin-left: 10px;
+			 top: 2;
+}
+.vleft2 {
+			 border-left: 15px solid black;
+			 height: 1000px;			  
+			 position: absolute;
+			 left: 30%;
+			 margin-left: 10px;
+			 top: 2;
+			
+}
+
+li#menu {
+  float: left;
+  margin: 0 50px;
+  list-style-type: square;
+  color:navy;
+  font-size: 60px;
+
+}
+ul{
+	padding: 5px 100px;
+	margin: 0 1400px;
+
+}
+ul#sub{
+	padding: 5px 100px;
+	margin: 0 140px;
+	font-size: 50px;
+	color: black;
+
+}
+ul#try{
+	padding: 5px 100px;
+	margin: 0 140px;
+	font-size: 70px;
+
+}
+
+
+
+
+

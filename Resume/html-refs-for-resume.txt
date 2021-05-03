@@ -1,0 +1,19 @@
+Resume format/guide
+
+https://resumegenius.com/resume-samples/information-technology-it-resume-example
+
+
+Span example
+https://www.w3schools.com/tags/tag_span.asp#:~:text=The%20tag%20is%20an,span%3E%20is%20an%20inline%20element.
+
+
+Align left and right (not sure pa)
+or 
+<p>
+     <span id="Likes">1 Likes</span>
+     <span id="DisLikes">1 DisLikes</span>
+</p>
+
+
+
+https://css-tricks.com/left-align-and-right-align-text-on-the-same-line/
